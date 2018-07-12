@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For CheapLCD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CheapLCD	KEYWORD1	CheapLCD
+CLCD_Button_t	KEYWORD1	CLCD_Button_t
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+backlightOn	KEYWORD2
+backlightOff	KEYWORD2
+backlightLevel	KEYWORD2
+readButton	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BTN_NONE		LITERAL1
+BTN_RIGHT		LITERAL1
+BTN_UP			LITERAL1
+BTN_DOWN		LITERAL1
+BTN_LEFT		LITERAL1
+BTN_SELECT	LITERAL1
