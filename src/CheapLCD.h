@@ -20,7 +20,7 @@
 #include <Arduino.h>
 #include <LiquidCrystal.h>
 
-#define CLCD_KBD_PIN  0   ///< A0
+#define CLCD_KBD_PIN  A0   ///< A0
 
 #define CLCD_DB4_PIN  4   ///< D4
 #define CLCD_DB5_PIN  5   ///< D5
